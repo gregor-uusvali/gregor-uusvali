@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gregor-uusvali
 - 👀 I’m interested in programming, music and plants. 
-- 🌱 I’m currently a 2nd year student ad kood/Jõhvi
+- 🌱 I’m currently a 2nd year student at kood/Jõhvi
 - 📫 [LinkedIn](https://www.linkedin.com/in/gregor-uusvali/) 
 
 <!---
